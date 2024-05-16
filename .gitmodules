@@ -1,0 +1,3 @@
+[submodule "project/KinectFusion-Vulkan"]
+	path = project/KinectFusion-Vulkan
+	url = https://github.com/YJJfish/KinectFusion-Vulkan.git
